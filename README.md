@@ -4,7 +4,7 @@
 
 npx react-native init iFood
 
-## Instalar as bibliotecas:
+## Instalando as bibliotecas:
 
 ### Instalando o expo
 npm install --global expo-cli
@@ -20,16 +20,15 @@ yarn add @react-navigation/native-stack
 
 yarn add @react-navigation/bottom-tabs
 
-### Instalando dependencias dentro do Expo, se estiver usando o expo 
+### Instalando dependências dentro do Expo, se estiver usando o expo 
 
 expo install react-native-screens react-native-safe-area-context
 
-### Instalando dependencias dentro do React Native sem o uso do Expo. 
+### Instalando dependências dentro do React Native sem o uso do Expo. 
 
 yarn add react-native-screens react-native-safe-area-context
 
-
-Links Úteis:
+## Links Úteis:
 
 https://expo.dev/
 
