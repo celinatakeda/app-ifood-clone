@@ -1,16 +1,16 @@
 # Criando interface do iFood com React Native
 
-## Criando o projeto
-
-npx react-native init iFood
-
-## Instalando as bibliotecas:
-
 ### Instalando o expo
 npm install --global expo-cli
 
+## Criando o projeto
+
+expo init ifood
+
 ### Instalando o yarn
 npm install --global yarn
+
+## Instalando as bibliotecas:
 
 yarn add styled-components
 
