@@ -28,6 +28,10 @@ expo install react-native-screens react-native-safe-area-context
 
 yarn add react-native-screens react-native-safe-area-context
 
+### Rodar o aplicativo
+
+expo start
+
 ## Links Úteis:
 
 https://expo.dev/
