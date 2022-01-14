@@ -28,12 +28,9 @@ expo install react-native-screens react-native-safe-area-context
 
 yarn add react-native-screens react-native-safe-area-context
 
-## Rodar o aplicativo
+### Rodar o aplicativo
 
 expo start
-
-![imgExpoStart](https://user-images.githubusercontent.com/82118386/149523482-10f75613-6685-406e-aa9c-2ef66a340fc3.png)
-
 
 ## Links Úteis:
 
