@@ -32,8 +32,9 @@ yarn add react-native-screens react-native-safe-area-context
 
 expo start
 
-![imgExpoStart](https://user-images.githubusercontent.com/82118386/149536272-641733d0-6083-4cd5-a8ca-a2863703f288.png)
-
+<p>
+  <img src=".github/expoStart.png">
+</p>
 
 ## Links Úteis:
 
