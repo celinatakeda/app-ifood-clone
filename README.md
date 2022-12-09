@@ -30,7 +30,7 @@ yarn add react-native-screens react-native-safe-area-context
 
 ### Rodar o aplicativo
 ```
-  expo start
+  $ expo start
 ```
 <p align="center">
   <img src=".github/expoStart.png">
