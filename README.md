@@ -1,7 +1,7 @@
 # Interface do ifood
 Criando interface do iFood com React Native
 
-### Instalando o expo
+### Instalando expo
 ```
   npm install --global expo-cli
 ```
