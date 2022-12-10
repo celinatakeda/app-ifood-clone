@@ -1,4 +1,5 @@
-# Criando interface do iFood com React Native
+# Ifood Clone
+Criando interface do iFood com React Native
 
 ### Instalando o expo
 ```
