@@ -1,12 +1,13 @@
 # Criando interface do iFood com React Native
 
 ### Instalando o expo
-npm install --global expo-cli
-
+```
+  npm install --global expo-cli
+```
 ## Criando o projeto
-
-expo init ifood
-
+```
+  expo init ifood
+````
 ### Instalando o yarn
 npm install --global yarn
 
