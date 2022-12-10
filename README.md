@@ -1,4 +1,4 @@
-# Ifood Clone
+# Interface do ifood
 Criando interface do iFood com React Native
 
 ### Instalando o expo
