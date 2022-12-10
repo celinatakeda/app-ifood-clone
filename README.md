@@ -9,7 +9,7 @@ Criando interface do iFood com React Native
 ```
   expo init ifood
 ````
-### Instalando o yarn
+### Instalando yarn
 ```
   npm install --global yarn
 ```
